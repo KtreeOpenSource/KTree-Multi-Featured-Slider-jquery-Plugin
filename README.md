@@ -38,18 +38,7 @@
 			interval:2000,
 			autorotate:true,
 			slideUrl:{
-				'position1':{
-					'name':'Slide One',
-					'url':'data/slide1.json'
-				},
-				'position2':{
-					'name':'Slide Two',
-					'url':'data/slide2.json'
-				},
-				'position3':{
-						'name':'Slide Three',
-						'url':'data/slide3.json'
-				}
+				-- Config your API urls for slides -- 
 			},
 			afterSlideSwitch:function(data){
 
@@ -64,4 +53,4 @@
 
 ## Featured Content KTSlider set up ##
 
-See script project page for additional details on setup and documentation: < http://www.ktree.com/blog/ KTree-Multi-Featured-Slider-jquery-Plugin.html >
+See script project page for additional details on setup and documentation  [here](http://www.ktree.com/blog/ KTree-Multi-Featured-Slider-jquery-Plugin.htm)
