@@ -1,0 +1,35 @@
+{
+	"name": "KTree Multi Featured Slider Jquery Plugin",
+	"version": "1.0.0",
+	"description": "The javascript library for magical scroll interactions.",
+	"homepage": "http://KTree.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/"
+	},
+	"authors": [
+		{
+			"name": "KTree Computer Solutions India (P) Ltd.",
+			"homepage": "http://www.KTree.com"
+		}
+	],
+	 "devDependencies": {
+
+	 },
+	  "engines": {},
+	"main": "KTSlider.js",
+	"keywords": [
+		"slider with tabs",
+		"feature content slider",
+		"slider",
+		"ajax slider",
+		"lightweight slider",
+		"Slider With Sections",
+		"Section Slider",
+		"Multi Slider",
+		"nested slidr",
+	],
+	"license": [
+		"MIT"
+	]
+}
