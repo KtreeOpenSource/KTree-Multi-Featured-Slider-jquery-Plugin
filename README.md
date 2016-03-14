@@ -53,4 +53,4 @@
 
 ## Featured Content KTSlider set up ##
 
-See script project page for additional details on setup and documentation  [here](http://www.ktree.com/blog/ KTree-Multi-Featured-Slider-jquery-Plugin.htm)
+See script project page for additional details on setup and documentation  [here](http://ktree.com/blog/KTree-Multi-Featured-Slider-jquery-Plugin.html)
