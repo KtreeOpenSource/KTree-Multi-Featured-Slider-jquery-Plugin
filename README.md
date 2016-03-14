@@ -21,7 +21,7 @@
 	<script type="text/javascript" src="KTSlider.js">
 
 	/***********************************************
-	* KTree Multi Featured Slider Jquery Plugin- (c) KTree.com (www.KTree.com)
+	* Featured Content KTSlider script- (c) KTree.com (www.KTree.com)
 	* Visit http://www.KTree.com for more information.
 	***********************************************/
 
@@ -38,7 +38,18 @@
 			interval:2000,
 			autorotate:true,
 			slideUrl:{
-				-- Config your API urls for slides -- 
+				'position1':{
+					'name':'Slide One',
+					'url':'data/slide1.json'
+				},
+				'position2':{
+					'name':'Slide Two',
+					'url':'data/slide2.json'
+				},
+				'position3':{
+						'name':'Slide Three',
+						'url':'data/slide3.json'
+				}
 			},
 			afterSlideSwitch:function(data){
 
@@ -47,10 +58,29 @@
 	});
 
 	</script>
+	/*Sample Data for each slide..
+	{
+		"background":"<Path For Image>",
+		"content":"<h1>Next Service In queue</h1><p>lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.lorem ipsum copy in various charsets and languages for layouts.</p>",
+		"subblocks":{
+				"Section1":{
+					"label":"Section1",
+					"data":"<h1>Section 1sadsdasda</h2>"
+				},
+				"Section2":{
+					"label":"Section2",
+					"data":"<h1>Section 2sadsdasda</h2>"
+				},
+				"Section3":{
+					"label":"Section3",
+					"data":"<h1>Section 2sadsdasda</h2>"
+				}
+			}
+		}*/
 
 	<div id="<your selector>">
 	</div>
 
 ## Featured Content KTSlider set up ##
 
-See script project page for additional details on setup and documentation  [here](http://ktree.com/blog/KTree-Multi-Featured-Slider-jquery-Plugin.html)
+See script project page for additional details on setup and documentation: <http://www.ktree.com/blog/ KTree-Multi-Featured-Slider-jquery-Plugin.html>
