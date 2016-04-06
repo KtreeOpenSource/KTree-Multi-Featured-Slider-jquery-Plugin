@@ -84,4 +84,5 @@
 ## Featured Content KTSlider set up ##
 
 Please visit <http://www.ktree.com> for the demo of this plugin. You can see the tabs and slides changing automatically in the site Homepage. 
-See script project page for additional details on setup and documentation:  <http://www.ktree.com/blog/ KTree-Multi-Featured-Slider-jquery-Plugin.html>
+See script project page for additional details on setup and documentation: 
+http://ktree.com/blog/ktree-multi-featured-slider-jquery-plugin.html
